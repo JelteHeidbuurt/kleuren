@@ -40,4 +40,7 @@ color: green;
 </tr>
 </table>
 </body>
+<footer>
+  <p> Get a great colour </p>
+  </footer>
 </html>
